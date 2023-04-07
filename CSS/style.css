@@ -4,6 +4,7 @@ body {
     margin: clear;
     font-family: Tahoma;
     background-color: #fefeee;
+    overflow-x: hidden;
 }
 /* Removing border from all images*/
 a {
